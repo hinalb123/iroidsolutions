@@ -4,11 +4,12 @@
 ## Installation
 First Clone project
 ```bash
-clone : https://gitlab.com/iroid-web-team/iroid-website-new  
+clone : https://github.com/hinalb123/iroidsolutions.git  
 ```
 go to folder
 ```bash
-cd iroid-website-new 
+cd iroidsolutions
+ 
 ```
 Install all the dependencies using composer
 
